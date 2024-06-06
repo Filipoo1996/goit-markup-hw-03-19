@@ -239,8 +239,12 @@ h1 {
   gap: 40px;
 }
 
-.nav-link {
-  padding: 24px 0;
+.nav-style:first-child {
+  margin-right: 76px;
+}
+
+.nav-style:nth-child() {
+  padding: 24px;
   display: flex;
   gap: 40px;
 }
