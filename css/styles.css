@@ -233,18 +233,3 @@ h1 {
 .logo-style {
   margin-right: 76px;
 }
-
-.header-nav .link {
-  display: flex;
-  gap: 40px;
-}
-
-.nav-style:first-child {
-  margin-right: 76px;
-}
-
-.nav-style:nth-child() {
-  padding: 24px;
-  display: flex;
-  gap: 40px;
-}
