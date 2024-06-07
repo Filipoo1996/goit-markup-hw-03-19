@@ -44,7 +44,6 @@ a {
 }
 .header {
   border-bottom: 1px solid #e7e9fc;
-  background-color: #f8f8f8;
   padding: 20px 0;
 }
 .menu-nav {
@@ -124,6 +123,12 @@ a {
 .span-header-logo,
 .span-footer-logo {
   color: #4d5ae5;
+  display: inline-block;
+  margin-bottom: 16px;
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 21px;
 }
 .link-nav:hover {
   color: #404bbf;
@@ -292,4 +297,8 @@ a {
 .logo {
   display: inline-block;
   margin-bottom: 16px;
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 21px;
 }
