@@ -4,7 +4,6 @@
   padding: 0;
 }
 body {
-  font-family: "Raleway", sans-serif;
   margin: 0;
   padding: 0;
 }
@@ -294,5 +293,4 @@ a {
 .logo {
   display: inline-block;
   margin-bottom: 16px;
-  justify-content: center;
 }
