@@ -118,12 +118,12 @@ a {
   margin-right: 30px;
   text-decoration: none;
   color: #2e2f42;
-  
-  
+}
+
 .span-header-logo,
 .span-footer-logo {
   color: #4d5ae5;
- }
+}
 .link-nav:hover {
   color: #404bbf;
 }
