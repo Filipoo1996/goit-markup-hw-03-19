@@ -21,7 +21,6 @@ img {
 .header,
 .footer {
   border-bottom: 1px solid #e7e9fc;
-  background-color: #f8f8f8;
   padding: 20px 0;
 }
 .header-nav,
@@ -274,7 +273,6 @@ a {
 }
 
 .fourth-section-item-role {
-  margin-bottom: 32px;
   font-size: 16px;
   color: #999;
 }
@@ -288,6 +286,7 @@ a {
 }
 .footer {
   padding: 100px 0;
+  background-color: #2e2f42;
 }
 .logo {
   display: inline-block;
