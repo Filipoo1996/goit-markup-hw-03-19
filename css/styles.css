@@ -118,11 +118,12 @@ a {
   margin-right: 30px;
   text-decoration: none;
   color: #2e2f42;
-  font-weight: 500;
-}
+  
+  
 .span-header-logo,
 .span-footer-logo {
   color: #4d5ae5;
+ 
 }
 .link-nav:hover {
   color: #404bbf;
@@ -132,7 +133,7 @@ a {
 }
 .header-nav .logo,
 .footer .logo {
-  font-family: "Roboto", sans-serif;
+  font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
   line-height: 21px;
@@ -289,6 +290,8 @@ a {
 }
 .footer {
   padding: 100px 0;
+  background-color: #2e2f42;
+  
 }
 .logo {
   display: inline-block;
