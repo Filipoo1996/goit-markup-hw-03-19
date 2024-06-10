@@ -257,10 +257,18 @@ a {
 .third-section-item-title {
   text-align: center;
   margin-bottom: 8px;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  letter-spacing: 0.02em;
 }
 
 .third-section-item-role {
   text-align: center;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.02em;
 }
 .fourth-section {
   padding: 120px 0 120px 0;
