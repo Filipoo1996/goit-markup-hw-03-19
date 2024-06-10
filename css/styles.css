@@ -96,6 +96,11 @@ a {
 }
 .contacts {
   gap: 40px;
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  line-height: 24px;
 }
 .address-contacts {
   text-decoration: none;
