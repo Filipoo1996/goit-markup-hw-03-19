@@ -53,6 +53,7 @@ a {
   font-weight: 500;
   letter-spacing: 0.02em;
   line-height: 24px;
+  color: #2e2f42;
 }
 .head-container {
   display: flex;
@@ -216,11 +217,17 @@ a {
 .second-section-item-title {
   font-size: 20px;
   margin-bottom: 8px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.02em;
 }
 .second-section-item-desc {
   font-size: 16px;
   color: #434455;
   margin-bottom: 8px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.02em;
 }
 .third-section {
   background-color: #f4f4fd;
