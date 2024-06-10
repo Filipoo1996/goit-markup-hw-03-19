@@ -299,11 +299,17 @@ a {
 .fourth-section-item-title {
   margin-bottom: 8px;
   font-size: 20px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.02em;
 }
 
 .fourth-section-item-role {
   font-size: 16px;
-  color: #999;
+  color: #434455;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.02em;
 }
 
 .footer-item-role {
