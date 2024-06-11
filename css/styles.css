@@ -133,6 +133,9 @@ a {
 
 .span-footer-logo {
   color: #f4f4fd;
+  font-size: 18px;
+  line-height: 21px;
+  letter-spacing: 0.03em;
 }
 .span-header-logo {
   color: #2e2f42;
@@ -147,7 +150,9 @@ a {
 .header-nav .logo,
 .footer .logo {
   font-weight: 700;
-  font-size: 24px;
+  font-size: 18px;
+  line-height: 21px;
+  letter-spacing: 0.03em;
 }
 .address-contacts:hover {
   color: #404bbf;
